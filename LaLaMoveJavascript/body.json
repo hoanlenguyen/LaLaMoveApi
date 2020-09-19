@@ -1,0 +1,47 @@
+{
+  "quotedTotalFee": {"totalFee": "84000","totalFeeCurrency": "VND"},
+  "sms": false,
+  "scheduleAt": "2020-09-20T14:30:00Z",
+  "serviceType": "LALA2H",
+  "stops": [
+    {
+      "location": {
+        "lat": "10.777888",
+        "lng": "106.684554"
+      },
+      "addresses": {
+        "vi_VN": {
+          "displayString": "35 Nguyễn Thông, phường 7, quận 3, TPHCM",
+          "country": "VN"
+        }
+      }
+    },
+    {
+      "location": {
+        "lat": "10.841889",
+        "lng": "106.809325"
+      },
+      "addresses": {
+        "vi_VN": {
+          "displayString": "DH FPT Q9, TP.HCM",
+          "country": "VN"
+        }
+      }
+    }
+  ],
+  "deliveries": [
+    {
+      "toStop": 1,
+      "toContact": {
+        "name": "Nguyễn Văn A",
+        "phone": "0987654123"
+      },
+      "remarks": "Lầu 1 p203"
+    }
+  ],
+  "requesterContact": {
+    "name": "Nguyễn Văn A",
+    "phone": "0987655133"
+  },
+  "specialRequests": [ "HELP_BUY", "LALABAG" ]
+}
